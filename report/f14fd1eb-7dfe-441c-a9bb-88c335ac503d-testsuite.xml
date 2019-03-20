@@ -1,0 +1,63 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1553070293570" stop="1553070293696">
+  <name>test01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1553070293570" status="passed" stop="1553070293578">
+      <name>Test01.test001</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7264-MainThread"/>
+        <label name="host" value="DESKTOP-H2Q8RPD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1553070293577" status="passed" stop="1553070293578">
+          <name>新增</name>
+          <title>新增</title>
+          <attachments>
+            <attachment source="c726dbf8-1376-49e5-a6f5-c04471955096-attachment.txt" title="描述" type="text/plain"/>
+            <attachment source="b48442b9-0182-4426-bcf9-a4057c20a3b8-attachment.txt" title="描述" type="text/plain"/>
+            <attachment source="c48512d6-398e-4bd4-85cd-72f4c76fdbc6-attachment.txt" title="描述" type="text/plain"/>
+            <attachment source="a4f4743e-4426-4901-9398-24ae13e33f16-attachment.txt" title="描述" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1553070293664" status="passed" stop="1553070293669">
+      <name>Test01.test002</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="7264-MainThread"/>
+        <label name="host" value="DESKTOP-H2Q8RPD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1553070293669" status="passed" stop="1553070293669">
+          <name>更新</name>
+          <title>更新</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1553070293671" status="passed" stop="1553070293696">
+      <name>Test01.test003</name>
+      <attachments>
+        <attachment source="0b1c9d3a-f92b-4a1c-9d01-ceb3f60bad46-attachment.png" title="失败原因：" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7264-MainThread"/>
+        <label name="host" value="DESKTOP-H2Q8RPD"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
